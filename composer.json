@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/customproduct100",
+    "type": "magento-module",
+    "license": "Open-Source",
+    "homepage": "",
+    "description": "Product design tools for online custom product development",
+    "authors": [
+    {
+        "name": "blg4mail.com",
+        "email": "lovein.sales@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
