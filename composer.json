@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/customproduct100",
+    "name": "openmage-module-fostering\/customproduct100",
     "type": "magento-module",
-    "license": "Open-Source",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Product design tools for online custom product development",
     "authors": [
